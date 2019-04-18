@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -508,7 +509,8 @@ h6,
   font-size: 13px;
 }
 #menu-3 .btn {
-  font-size: 18px;
+  font-size: 19px;
+  font-family: 'Lora', serif;
 }
 #social-buttons2-o .mbr-section-title,
 #social-buttons2-o .btn-social {
